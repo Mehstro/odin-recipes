@@ -1,0 +1,26 @@
+
+body {
+    background-color: black;
+   
+
+}
+
+h1, h2 {
+    color: cyan;
+    text-align: center;
+    text-decoration: white underline;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    padding: 5px;
+}
+
+
+.fancy {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: orange;
+    color: black;
+    font-size: 28px;
+    
+}
+
